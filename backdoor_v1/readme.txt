@@ -1,0 +1,1 @@
+python train_backdoor.py --target 1 --GPUid 0 --percentage_poison 0.5 --trigger_type domain_mismatch
